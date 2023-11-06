@@ -1,0 +1,36 @@
+/. Starting ./
+add(Component c) -> Adds a Component to Another
+setSize(int w, int h) -> Sets the size of a Component
+setLayout(LayoutManager m) -> Sets the Layout Manager for the component
+setVisible(boolean s) -> Sets the visibility {0, 1}
+
+Components basic commands
+setSize
+setBounds
+setLayout
+setVisible
+
+EXIT_ON_CLOSE = 3
+
+Can create an object or extend *JFrame*
+
+/. Buttons ./
+JButton(String text, Icon i)
+
+setText(String text) -> Sets a text to the button
+String getText() -> Returns the text of the button
+setEnabled(bool state) -> Sets availability of Button
+setIcon(Icon icon) -> Sets an Icon
+Icon getIcon() -> Gets the Icon
+setMnemonic(int a) -> Sets the mnemonic to button?
+addActionListener(ActionListener a) -> Calls the action Listener
+
+Action listener uses the awt.event packages,
+so it's primordial to import them
+
+==== Normal ActionListeners for Buttons ====
+button.addActionListener(new ActionListener() {
+	public void actionPerformed(ActionEvent e) {
+		// actions
+	}
+}
