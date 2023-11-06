@@ -10,4 +10,5 @@
     - [AceptaElRetoDotCom](./AceptaElRetoDotCom/)
     - [LearningSwing](./LearningSwing2/)
 
-### By: Antonio Navarro
+> [!NOTE]
+> By: Antonio Navarro
