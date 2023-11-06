@@ -9,6 +9,6 @@
     - [Aburriciones](./aburriciones/)
     - [AceptaElRetoDotCom](./AceptaElRetoDotCom/)
     - [LearningSwing](./LearningSwing2/)
-
-> [!NOTE]
+<br><br>
+> [!NOTE]Author
 > By: Antonio Navarro
